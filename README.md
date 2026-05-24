@@ -1,3 +1,5 @@
+## NAME: T.TANUJ
+## REG NO: 212224060276
 # Ex-04-POWER-MEASUREMENT-USING-MAGIC-TEE
 ## AIM:
 To measure isolation between E and Harms of the magic tee and Demonstrate 3 dB powerdivision in the arm of magic tree.
@@ -44,9 +46,15 @@ Isolation measurement (Tabulation)
 
 Measurement of power division (Tabulation)
 
+<img width="1077" height="593" alt="image" src="https://github.com/user-attachments/assets/38a3d8fe-9957-44bf-b03b-0cd6c461b50e" />
+
+
 ## Analysis of Results: (Write your own)
 
 (Include sample calculations/Display/plot/typical graph)
+
+<img width="1031" height="385" alt="image" src="https://github.com/user-attachments/assets/85401d15-2ef2-493d-a0c8-24418ade861c" />
+
 
 ## Conclusions: (Write your Own)
 
@@ -57,3 +65,5 @@ Isolation between E and H arms (dB) = (A1 – A2) dB Coupling between collinear 
 • Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
 
 ## Result:
+
+The isolation between the E and H arms of the magic tee was successfully measured and found to be within the expected range, indicating proper isolation between the ports. The power division between the collinear arms was observed to be approximately 3 dB, confirming that the magic tee equally divides the input power into two arms with minimal loss. Thus, the magic tee functions effectively as a hybrid junction for power division and signal isolation in microwave systems.
